@@ -168,6 +168,15 @@ p.about__container-link {
     font-size: 26px;
 }
 
+.aboutImg{
+    margin: 10px;
+    width: 40px;
+    height: 40px;
+}
+.linkslogoContainer{
+    display: flex;
+    align-items: center;
+}
 .cursor-follow {
     position: absolute;
     background: url(../images/Profile_Round.png) no-repeat 50% 50%;
